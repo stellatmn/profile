@@ -2,7 +2,9 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: rgb(240, 240, 240);
+  background-image: url("images/mountain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover
 }
 
 h1, h2 {
